@@ -1,0 +1,8 @@
+﻿Build started at 10:24 PM...
+1>------ Build started: Project: GPACalculator1, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\kritt\OneDrive\เดสก์ท็อป\kk\GPACalculator1\GPACalculator1\GPACalculator1\item.cs(9,20,9,24): warning CS8981: The type name 'item' only contains lower-cased ascii characters. Such names may become reserved for the language.
+1>GPACalculator1 -> C:\Users\kritt\OneDrive\เดสก์ท็อป\kk\GPACalculator1\GPACalculator1\GPACalculator1\bin\Debug\net8.0-windows\GPACalculator1.dll
+1>Done building project "GPACalculator1.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:24 PM and took 13.247 seconds ==========
